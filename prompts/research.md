@@ -9,6 +9,12 @@ Topic:
 [TOPIC]
 ```
 
+## Research roadmap
+
+```text
+Act as a research assistant. Build a research roadmap for [TOPIC]. Break it into key questions, subtopics, evidence to collect, useful search queries, and reliable source types. Clearly separate established facts from hypotheses.
+```
+
 ## Compare sources
 
 ```text
@@ -18,6 +24,12 @@ Sources:
 [PASTE SOURCES]
 ```
 
+## Compare two options
+
+```text
+Compare [OPTION A] and [OPTION B] for [USE CASE]. Create a decision matrix covering features, strengths, weaknesses, cost factors, learning curve, limitations, and best-fit users. Do not invent specifications; mark information that requires verification.
+```
+
 ## Extract useful information
 
 ```text
@@ -25,6 +37,15 @@ Extract the most important information from the following material. Organize it 
 
 Material:
 [PASTE MATERIAL]
+```
+
+## Fact-check a draft
+
+```text
+Audit the following draft for factual claims. Extract each claim that requires verification, explain what evidence would support or contradict it, and flag claims that are ambiguous or too broad. Do not manufacture citations.
+
+Draft:
+[PASTE DRAFT]
 ```
 
 ## Create an interview questionnaire
@@ -41,3 +62,25 @@ Review this research outline and identify important questions or sections that a
 Outline:
 [PASTE OUTLINE]
 ```
+
+## Socratic learning
+
+```text
+Teach me [TOPIC] using Socratic questioning. Ask one question at a time, wait for my answer, evaluate my reasoning, correct misconceptions, and gradually guide me toward a correct understanding. Do not simply give me the answer immediately.
+```
+
+## Feynman technique
+
+```text
+Help me learn [TOPIC] using the Feynman technique. First ask me to explain it in simple words. Then identify gaps or incorrect assumptions in my explanation, explain those gaps simply, and ask me to try again.
+```
+
+## Related AI Shikhbo resources
+
+- [AI Shikhbo prompt library](https://aishikhbo.com/prompts)
+- [AI Shikhbo blog](https://aishikhbo.com/blog)
+- [AI PDF extraction guide](https://aishikhbo.com/posts/ai-pdf-extraction-chatpdf-humata)
+- [NotebookLM PDF and lecture summary guide](https://aishikhbo.com/posts/notebooklm-pdf-lecture-summary-study)
+- [Notion AI study and project management guide](https://aishikhbo.com/posts/notion-ai-study-project-management-students)
+
+Before publishing research-based content, verify important claims against primary or otherwise reliable sources. These prompts help organize research; they are not substitutes for source verification.
