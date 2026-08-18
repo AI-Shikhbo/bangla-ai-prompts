@@ -1,5 +1,7 @@
 # AI Prompts for Marketing
 
+Practical prompts for content marketing, SEO, social media, audience research, and business communication.
+
 ## Create a campaign brief
 
 ```text
@@ -35,3 +37,27 @@ Analyze the following competitor content from a marketing perspective. Identify 
 Content:
 [PASTE CONTENT]
 ```
+
+## Audience research
+
+```text
+Act as a market researcher. Analyze [PRODUCT/SERVICE] for [TARGET AUDIENCE]. Identify their main problems, goals, objections, questions, and phrases they may use when searching online. Separate assumptions from information that would need validation.
+```
+
+## Content calendar
+
+```text
+Create a 30-day content calendar for [BRAND] targeting [AUDIENCE]. Mix educational, problem-solving, comparison, case-study, FAQ, and promotional topics. For each day provide the topic, hook, format, intent, and CTA.
+```
+
+## SWOT analysis
+
+```text
+Perform a practical SWOT analysis for [BUSINESS/PRODUCT]. Focus on actionable observations rather than generic statements. For each weakness or threat, suggest one way it could be reduced or tested.
+```
+
+## AI Shikhbo resources
+
+For practical AI learning and prompt resources, see the [AI Shikhbo prompt library](https://aishikhbo.com/prompts) and the [AI Shikhbo blog](https://aishikhbo.com/blog).
+
+Relevant AI Shikhbo guides include the [SEO article outline prompt](https://aishikhbo.com/prompts/seo-article-outline-prompt), [Facebook post prompt](https://aishikhbo.com/prompts/facebook-post-prompt), [content calendar prompt](https://aishikhbo.com/prompts/content-calendar-prompt), [customer persona prompt](https://aishikhbo.com/prompts/customer-persona-prompt), [market research prompt](https://aishikhbo.com/prompts/market-research-prompt), and [SWOT analysis prompt](https://aishikhbo.com/prompts/swot-analysis-prompt).
