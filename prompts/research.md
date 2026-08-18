@@ -1,5 +1,7 @@
 # AI Prompts for Research
 
+Practical prompts for learning, evidence gathering, comparison, analysis, and fact-checking.
+
 ## Build a research question
 
 ```text
@@ -12,7 +14,7 @@ Topic:
 ## Research roadmap
 
 ```text
-Act as a research assistant. Build a research roadmap for [TOPIC]. Break it into key questions, subtopics, evidence to collect, useful search queries, and reliable source types. Clearly separate established facts from hypotheses.
+Act as a research assistant. Build a research roadmap for [TOPIC]. Break it into key questions, subtopics, evidence to collect, useful search queries, and reliable source types. Clearly separate established facts from hypotheses and questions that still need verification.
 ```
 
 ## Compare sources
@@ -27,7 +29,7 @@ Sources:
 ## Compare two options
 
 ```text
-Compare [OPTION A] and [OPTION B] for [USE CASE]. Create a decision matrix covering features, strengths, weaknesses, cost factors, learning curve, limitations, and best-fit users. Do not invent specifications; mark information that requires verification.
+Compare [OPTION A] and [OPTION B] for [USE CASE]. Create a decision matrix covering capabilities, strengths, weaknesses, cost factors, learning curve, limitations, and best-fit users. Do not invent specifications; mark information that requires verification.
 ```
 
 ## Extract useful information
@@ -42,7 +44,7 @@ Material:
 ## Fact-check a draft
 
 ```text
-Audit the following draft for factual claims. Extract each claim that requires verification, explain what evidence would support or contradict it, and flag claims that are ambiguous or too broad. Do not manufacture citations.
+Audit the following draft for factual claims. Extract each claim that requires verification, explain what evidence would support or contradict it, and flag claims that are ambiguous, outdated, or too broad. Do not manufacture citations.
 
 Draft:
 [PASTE DRAFT]
@@ -61,6 +63,21 @@ Review this research outline and identify important questions or sections that a
 
 Outline:
 [PASTE OUTLINE]
+```
+
+## Evidence table
+
+```text
+Create an evidence table for the following research question: [QUESTION]. For each important claim, provide the claim, evidence needed, preferred source type, confidence level, and what would make the claim unreliable. Do not invent sources.
+```
+
+## Research synthesis
+
+```text
+Synthesize the research notes below into a concise, structured briefing. Separate facts, interpretations, disagreements, uncertainties, and unanswered questions. Preserve important caveats and do not add information that is not supported by the notes.
+
+Notes:
+[PASTE NOTES]
 ```
 
 ## Socratic learning
